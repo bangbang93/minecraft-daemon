@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-daemon",
+  "version": "1.0.0",
+  "description": "minecraft servers daemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bangbang93/minecraft-daemon"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "bangbang93",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/bangbang93/minecraft-daemon/issues"
+  },
+  "homepage": "https://github.com/bangbang93/minecraft-daemon"
+}
